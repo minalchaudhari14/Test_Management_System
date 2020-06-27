@@ -1,0 +1,39 @@
+.menu {
+  left:  -285px;
+  height: 100%;
+  position: fixed;
+  /*width: 285px;*/
+  z-index: 1;
+  /*background-color: #111111;*/
+  transition: .2s
+}
+
+.menu ul {
+  /*border-top: 1px solid #636366;*/
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+/*.menu li {
+  border-bottom: 1px solid #636366;
+  font-family: 'Open Sans', sans-serif;
+  line-height: 45px;
+  padding-bottom: 3px;
+  padding-right: 20px;
+  padding-top: 3px;
+}
+
+.menu li a {
+  color: white;
+}*/
+
+.bar {
+  left:  0px;
+}
+
+body,
+html {
+  height: 100%;
+  width: 100%;
+}
